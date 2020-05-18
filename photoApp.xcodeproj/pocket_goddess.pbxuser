@@ -1,0 +1,155 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* photoAppAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1248}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 356}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* photoApp */ = {
+		activeExec = 0;
+		executables = (
+			37C82A2012FF9CD000344B3A /* photoApp */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* photoAppViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 325}}";
+			sepNavSelRange = "{234, 0}";
+			sepNavVisRange = "{150, 466}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* photoAppViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 858}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 531}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 37C82A2012FF9CD000344B3A /* photoApp */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* photoApp */;
+		codeSenseManager = 37C82A2D12FF9CDE00344B3A /* Code sense */;
+		executables = (
+			37C82A2012FF9CD000344B3A /* photoApp */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318741712;
+			PBXWorkspaceStateSaveDate = 318741712;
+		};
+		perUserProjectItems = {
+			37C82A2412FF9CDE00344B3A /* PBXTextBookmark */ = 37C82A2412FF9CDE00344B3A /* PBXTextBookmark */;
+			37C82A3212FFA69500344B3A /* PBXTextBookmark */ = 37C82A3212FFA69500344B3A /* PBXTextBookmark */;
+			37C82A3312FFA69500344B3A /* PBXTextBookmark */ = 37C82A3312FFA69500344B3A /* PBXTextBookmark */;
+			37C82A3412FFA69500344B3A /* PBXTextBookmark */ = 37C82A3412FFA69500344B3A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 37C82A2C12FF9CDE00344B3A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	37C82A2012FF9CD000344B3A /* photoApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = photoApp;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	37C82A2412FF9CDE00344B3A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* photoAppViewController.m */;
+		name = "photoAppViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 531;
+		vrLoc = 0;
+	};
+	37C82A2C12FF9CDE00344B3A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	37C82A2D12FF9CDE00344B3A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	37C82A3212FFA69500344B3A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* photoAppViewController.h */;
+		name = "photoAppViewController.h: 11";
+		rLen = 0;
+		rLoc = 234;
+		rType = 0;
+		vrLen = 466;
+		vrLoc = 150;
+	};
+	37C82A3312FFA69500344B3A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* photoAppAppDelegate.m */;
+		name = "photoAppAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 356;
+		vrLoc = 0;
+	};
+	37C82A3412FFA69500344B3A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* photoAppAppDelegate.m */;
+		name = "photoAppAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 356;
+		vrLoc = 0;
+	};
+}
